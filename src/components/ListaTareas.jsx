@@ -4,7 +4,7 @@ import ItemTarea from "./ItemTarea";
 const ListaTareas = () => {
   return (
     <div>
-      <ListGroup>
+      <ListGroup className="rounded">
         <ItemTarea></ItemTarea>
         <ItemTarea></ItemTarea>
         <ItemTarea></ItemTarea>
